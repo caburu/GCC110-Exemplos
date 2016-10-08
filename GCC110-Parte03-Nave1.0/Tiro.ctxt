@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=x\ y\ tiroDoInimigo
+comment0.target=Tiro(int,\ int,\ boolean)
+comment0.text=\r\n\ Constroi\ um\ tiro\ na\ posicao\ passada\ e\ com\ velocidade\ padrao\r\n\ \r\n\ @param\ posX\ posicao\ X\ inicial\ do\ tiro\r\n\ @param\ posY\ posicao\ Y\ inicial\ do\ tiro\r\n\ @param\ ehDoInimigo\ indica\ se\ eh\ um\ tiro\ dado\ pelo\ inimigo,\ caso\ contrario\ sera\ do\ jogador\r\n
+comment1.params=
+comment1.target=int\ getPosX()
+comment1.text=\r\n\ Retorna\ a\ posicao\ X\ atual\ do\ tiro\r\n
+comment2.params=
+comment2.target=int\ getPosY()
+comment2.text=\r\n\ Retorna\ a\ posicao\ Y\ atual\ do\ tiro\r\n
+comment3.params=
+comment3.target=int\ getLargura()
+comment3.text=\r\n\ Retorna\ a\ largura\ do\ tiro\r\n
+comment4.params=
+comment4.target=int\ getAltura()
+comment4.text=\r\n\ Retorna\ a\ altura\ do\ tiro\r\n
+comment5.params=largura\ altura
+comment5.target=void\ alterarTamanho(int,\ int)
+comment5.text=\r\n\ Altera\ as\ dimensoes\ do\ tiro\ (para\ que\ ele\ fique\ do\ tamanho\ da\ figura\ que\ o\ representa)\r\n\ \r\n\ @param\ largura\ nova\ largura\ do\ tiro\r\n\ @param\ altura\ nova\ altura\ do\ tiro\r\n
+comment6.params=
+comment6.target=boolean\ getEhDoInimigo()
+comment6.text=\r\n\ Retorna\ se\ o\ tiro\ eh\ do\ inimigo\ ou,\ caso\ contr\u00E1rio,\ da\ nave\ do\ jogador\r\n
+comment7.params=
+comment7.target=void\ mover()
+comment7.text=\r\n\ Realiza\ a\ movimentacao\ do\ tiro\ (ele\ se\ movimenta\ apenas\ na\ horizontal)\r\n\ Se\ for\ tiro\ do\ inimigo\ se\ move\ pra\ esquerda,\ se\ for\ da\ nave\ do\ jogador\ pra\ direita\r\n
+numComments=8
