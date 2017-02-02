@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment0.text=\r\n\ Metodo\ principal\ que\ inicial\ a\ execucao\ do\ programa\r\n\r\n\ @param\ args\ Parametros\ do\ programa\ (o\ programa\ nao\ espera\ nenhum)\r\n
+comment1.params=
+comment1.target=int\ exibirMenu()
+comment1.text=\r\n\ Exibe\ o\ menu\ para\ o\ usuario\ e\ retorna\ a\ opcao\ escolhida\ por\ ele\r\n\ \r\n\ @return\ Opcao\ de\ menu\ escolhida\ pelo\ usuario\r\n
+comment2.params=
+comment2.target=void\ adicionarVeiculo()
+comment2.text=\r\n\ Permite\ ao\ usuario\ adicionar\ um\ veiculo\ ao\ simulador.\r\n\ O\ usuario\ passa\ os\ dados\ de\ acordo\ com\ o\ tipo\ de\ veiculo.\r\n
+comment3.params=
+comment3.target=void\ alterarVelocidadeVeiculo()
+comment3.text=\r\n\ Permite\ ao\ usuario\ alterar\ a\ velocidade\ de\ um\ veiculo\ do\ simulador.\r\n\ O\ usuario\ informa\ o\ tipo\ de\ veiculo\ e\ o\ modelo.\r\n
+comment4.params=
+comment4.target=void\ exibirVeiculos()
+comment4.text=\r\n\ Exibe\ na\ tela\ os\ veiculos\ retornados\ pelo\ simulador\r\n
+numComments=5

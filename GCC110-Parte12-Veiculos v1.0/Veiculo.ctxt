@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=modelo\ marca\ placa
+comment0.target=Veiculo(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Constroi\ o\ objeto\ a\ partir\ do\ modelo,\ marca\ e\ placa\ passados.\r\n\ A\ velocidade\ inicial\ do\ veiculo\ sera\ zero\ km/h.\r\n\ \r\n\ @param\ modelo\ Modelo\ do\ ve\u00EDculo\ a\ ser\ criado.\r\n\ @param\ marca\ Marca\ do\ veiculo\ a\ ser\ criado.\r\n\ @param\ placa\ Placa\ do\ veiculo\ a\ ser\ criado.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getModelo()
+comment1.text=\r\n\ Retorna\ o\ modelo\ do\ veiculo\r\n\r\n\ @return\ O\ modelo\ do\ veiculo\r\n
+comment2.params=
+comment2.target=java.lang.String\ getMarca()
+comment2.text=\r\n\ Retorna\ a\ marca\ do\ veiculo\r\n\r\n\ @return\ A\ marca\ do\ veiculo\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPlaca()
+comment3.text=\r\n\ Retorna\ a\ placa\ do\ veiculo\r\n\r\n\ @return\ A\ placa\ do\ veiculo\r\n
+comment4.params=
+comment4.target=java.lang.String\ getVelocidadeAtual()
+comment4.text=\r\n\ Retorna\ a\ velocidade\ atual\ do\ veiculo\ (em\ km/h)\r\n\r\n\ @return\ A\ velocidade\ atual\ do\ veiculo\ (em\ km/h)\r\n
+comment5.params=velocidade
+comment5.target=boolean\ setVelocidadeAtual(int)
+comment5.text=\r\n\ Altera\ a\ velocidade\ atual\ do\ veiculo.\r\n\ So\ altera\ a\ velocidade\ se\ for\ passado\ valor\ maior\ ou\ igual\ a\ zero.\r\n\ \r\n\ @param\ velocidade\ Nova\ velocidade\ do\ veiculo\ (em\ km/h).\r\n\ @return\ Retorna\ se\ a\ velocidade\ foi\ realmente\ alterada\ ou\ nao.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getDescricaoVeiculo()
+comment6.text=\r\n\ Retorna\ a\ descricao\ do\ veiculo\ no\ formato\:\r\n\ \ Placa\ \ \ Modelo\ \ Marca\ \ \ Velocidade\ km/h\r\n\ \r\n\ @return\ A\ descricao\ do\ veiculo\ (seus\ campos\ separados\ por\ tabulacoes)\r\n
+numComments=7

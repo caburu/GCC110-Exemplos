@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=modelo\ marca\ placa\ capacidadePassageiros
+comment0.target=Onibus(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment0.text=\r\n\ Controi\ objeto\ da\ classe\ Onibus\ a\ partir\ dos\ parametros\ passados\r\n\ Obs\:\ a\ velocidade\ inicial\ do\ onibus\ eh\ definida\ na\ classe\ Veiculo\r\n\ \r\n\ @param\ modelo\ Modelo\ do\ onibus\ a\ ser\ criado.\r\n\ @param\ marca\ Marca\ do\ onibus\ a\ ser\ criado.\r\n\ @param\ placa\ Placa\ do\ onibus\ a\ ser\ criado.\r\n\ @param\ capacidadePassageiros\ Quantidade\ de\ passageiros\ que\ o\ onibus\ pode\ carregar.\r\n
+comment1.params=
+comment1.target=int\ getCapacidadePassageiros()
+comment1.text=\r\n\ Retorna\ a\ quantidade\ de\ passageiros\ que\ o\ onibus\ pode\ levar\r\n\r\n\ @return\ A\ quantidade\ de\ passageiros\ que\ o\ onibus\ pode\ levar\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescricaoOnibus()
+comment2.text=\r\n\ Retorna\ a\ descricao\ do\ onibus\ no\ formato\:\r\n\ \ Placa\ \ \ Modelo\ \ Marca\ \ \ Velocidade\ km/h\ \ \ \ \ Capacidade\r\n\ \r\n\ @return\ A\ descricao\ do\ onibus\ (a\ descricao\ do\ veiculo\ mais\ seus\ campos\ separados\ por\ tabulacoes)\r\n
+numComments=3

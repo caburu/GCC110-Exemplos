@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=modelo\ marca\ placa\ ehFlex
+comment0.target=Carro(java.lang.String,\ java.lang.String,\ java.lang.String,\ boolean)
+comment0.text=\r\n\ Controi\ objeto\ da\ classe\ Carro\ a\ partir\ dos\ parametros\ passados\r\n\ Obs\:\ a\ velocidade\ inicial\ do\ carro\ eh\ definida\ na\ classe\ Veiculo\r\n\ \r\n\ @param\ modelo\ Modelo\ do\ carro\ a\ ser\ criado.\r\n\ @param\ marca\ Marca\ do\ carro\ a\ ser\ criado.\r\n\ @param\ placa\ Placa\ do\ carro\ a\ ser\ criado.\r\n\ @param\ ehFlex\ Indica\ se\ o\ carro\ eh\ flex\ ou\ nao\ (em\ relacao\ ao\ combustivel)\r\n
+comment1.params=
+comment1.target=boolean\ getEhFlex()
+comment1.text=\r\n\ Retorna\ se\ o\ carro\ eh\ flex\ ou\ nao\ (em\ relacao\ ao\ combustivel)\r\n\r\n\ @return\ Indicacao\ se\ o\ carro\ eh\ flex\ ou\ nao\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescricaoCarro()
+comment2.text=\r\n\ Retorna\ a\ descricao\ do\ carro\ no\ formato\:\r\n\ \ Placa\ \ \ Modelo\ \ Marca\ \ \ Velocidade\ km/h\ \ \ \ \ Flex\ (ou\ Comum)\r\n\ \r\n\ @return\ A\ descricao\ do\ carro\ (a\ descricao\ do\ veiculo\ mais\ seus\ campos\ separados\ por\ tabulacoes)\r\n
+numComments=3

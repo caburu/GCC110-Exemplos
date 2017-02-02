@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=modelo\ marca\ placa\ capacidadeCarga
+comment0.target=Caminhao(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment0.text=\r\n\ Controi\ objeto\ da\ classe\ Caminhao\ a\ partir\ dos\ parametros\ passados\r\n\ Obs\:\ a\ velocidade\ inicial\ do\ caminhao\ eh\ definida\ na\ classe\ Veiculo\r\n\ \r\n\ @param\ modelo\ Modelo\ do\ caminhao\ a\ ser\ criado.\r\n\ @param\ marca\ Marca\ do\ caminhao\ a\ ser\ criado.\r\n\ @param\ placa\ Placa\ do\ caminhao\ a\ ser\ criado.\r\n\ @param\ capacidadeCarga\ Capacidade\ de\ carga\ do\ caminhao\ (em\ toneladas).\r\n
+comment1.params=
+comment1.target=double\ getCapacidadeCarga()
+comment1.text=\r\n\ Retorna\ a\ capacidade\ de\ carga\ do\ caminhao\ (em\ toneladas)\r\n\ \r\n\ @return\ A\ capacidade\ de\ carga\ do\ caminhao\ (em\ toneladas)\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescricaoCaminhao()
+comment2.text=\r\n\ Retorna\ a\ descricao\ do\ caminhao\ no\ formato\:\r\n\ \ Placa\ \ \ Modelo\ \ Marca\ \ \ Velocidade\ km/h\ \ \ \ \ Capacidade\r\n\ \r\n\ @return\ A\ descricao\ do\ caminhao\ (a\ descricao\ do\ veiculo\ mais\ seus\ campos\ separados\ por\ tabulacoes)\r\n
+numComments=3
