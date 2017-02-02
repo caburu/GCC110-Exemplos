@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=nomeArmadura
+comment0.target=Inimigo(java.lang.String)
+comment1.params=
+comment1.target=int\ getQtdeInimigos()
+comment2.params=
+comment2.target=Armadura\ getArmadura()
+comment3.params=
+comment3.target=void\ metodoQualquer()
+numComments=4
