@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=descricao
+comment0.target=Ambiente(java.lang.String)
+comment0.text=\r\n\ Cria\ um\ ambiente\ com\ a\ "descricao"\ passada.\ Inicialmente,\ ele\r\n\ nao\ tem\ saidas.\ "descricao"\ eh\ algo\ como\ "uma\ cozinha"\ ou\r\n\ "\r\n\ Create\ a\ room\ described\ "description".\ Initially,\ it\ has\r\n\ no\ exits.\ "description"\ is\ something\ like\ "a\ kitchen"\ or\r\n\ "um\ jardim\ aberto".\r\n\ @param\ descricao\ A\ descricao\ do\ ambiente.\r\n
+comment1.params=norte\ leste\ sul\ oeste
+comment1.target=void\ ajustarSaidas(Ambiente,\ Ambiente,\ Ambiente,\ Ambiente)
+comment1.text=\r\n\ Define\ as\ saidas\ do\ ambiente.\ Cada\ direcao\ ou\ leva\ a\ um\r\n\ outro\ ambiente\ ou\ eh\ null\ (nenhuma\ saida\ para\ la).\r\n\ @param\ norte\ A\ saida\ norte.\r\n\ @param\ leste\ A\ saida\ leste.\r\n\ @param\ sul\ A\ saida\ sul.\r\n\ @param\ oeste\ A\ saida\ oeste.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescricao()
+comment2.text=\r\n\ @return\ A\ descricao\ do\ ambiente.\r\n
+numComments=3

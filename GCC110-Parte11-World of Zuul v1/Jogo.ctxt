@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Jogo()
+comment0.text=\r\n\ Cria\ o\ jogo\ e\ incializa\ seu\ mapa\ interno.\r\n
+comment1.params=
+comment1.target=void\ criarAmbientes()
+comment1.text=\r\n\ Cria\ todos\ os\ ambientes\ e\ liga\ as\ saidas\ deles\r\n
+comment2.params=
+comment2.target=void\ jogar()
+comment2.text=\r\n\ \ Rotina\ principal\ do\ jogo.\ Fica\ em\ loop\ ate\ terminar\ o\ jogo.\r\n
+comment3.params=
+comment3.target=void\ imprimirBoasVindas()
+comment3.text=\r\n\ Imprime\ a\ mensagem\ de\ abertura\ para\ o\ jogador.\r\n
+comment4.params=comando
+comment4.target=boolean\ processarComando(Comando)
+comment4.text=\r\n\ Dado\ um\ comando,\ processa-o\ (ou\ seja,\ executa-o)\r\n\ @param\ comando\ O\ Comando\ a\ ser\ processado.\r\n\ @return\ true\ se\ o\ comando\ finaliza\ o\ jogo.\r\n
+comment5.params=
+comment5.target=void\ imprimirAjuda()
+comment5.text=\r\n\ Printe\ informacoes\ de\ ajuda.\r\n\ Aqui\ nos\ imprimimos\ algo\ bobo\ e\ enigmatico\ e\ a\ lista\ de\ \r\n\ palavras\ de\ comando\r\n
+comment6.params=comando
+comment6.target=void\ irParaAmbiente(Comando)
+comment6.text=\ \r\n\ Tenta\ ir\ em\ uma\ direcao.\ Se\ existe\ uma\ saida\ entra\ no\ \r\n\ novo\ ambiente,\ caso\ contrario\ imprime\ mensagem\ de\ erro.\r\n
+comment7.params=comando
+comment7.target=boolean\ sair(Comando)
+comment7.text=\ \r\n\ "Sair"\ foi\ digitado.\ Verifica\ o\ resto\ do\ comando\ pra\ ver\r\n\ se\ nos\ queremos\ realmente\ sair\ do\ jogo.\r\n\ @return\ true,\ se\ este\ comando\ sai\ do\ jogo,\ false,\ caso\ contrario\r\n
+numComments=8

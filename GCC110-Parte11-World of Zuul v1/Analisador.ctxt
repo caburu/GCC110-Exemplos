@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Analisador()
+comment0.text=\r\n\ Cria\ um\ analisador\ para\ ler\ do\ terminal.\r\n
+comment1.params=
+comment1.target=Comando\ pegarComando()
+comment1.text=\r\n\ @return\ O\ proximo\ comando\ do\ usuario\r\n
+numComments=2

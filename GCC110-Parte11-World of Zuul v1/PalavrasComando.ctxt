@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PalavrasComando()
+comment0.text=\r\n\ Construtor\ -\ inicializa\ as\ palavras\ de\ comando.\r\n
+comment1.params=umaString
+comment1.target=boolean\ ehComando(java.lang.String)
+comment1.text=\r\n\ Verifica\ se\ uma\ dada\ String\ eh\ uma\ palavra\ de\ comando\ valida.\ \r\n\ @return\ true\ se\ a\ string\ dada\ eh\ um\ comando\ valido,\r\n\ false\ se\ nao\ eh.\r\n
+numComments=2
